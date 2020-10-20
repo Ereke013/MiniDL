@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OS</title>
+    <!-- CSS only -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+            integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+            integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+            crossorigin="anonymous"></script>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+</head>
+<body>
+<!--    <nav class="fixed-top navbar navbar-expand">-->
+<!--        <a href="https://dl.iitu.kz" class="navbar-brand d-none d-sm-inline" style="text-decoration: none; font-size: 22px; color: black">-->
+<!--            <span class="site-name d-none d-md-inline">dl.iitu.kz</span>-->
+<!--        </a>-->
+<!--    </nav>-->
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light navigation"
+         style="box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"
+                aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand ml-5" href="Welcome.html">dl.yeahboy.kz</a>
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav mr-auto mt-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Русский(ru)
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="#">Русский(ru)</a>
+                        <a class="dropdown-item" href="#">English(en)</a>
+                        <a class="dropdown-item" href="#">Қазақша(kk)</a>
+                    </div>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0 mr-5">
+                <!--            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">-->
+                <!--            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>-->
+                <ul class="navbar-nav mr-auto mt-lg-0">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink2" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            USER
+                            <img src="https://dl.iitu.kz/theme/image.php/classic/core/1602665137/u/f2"
+                                 class="userpicture defaultuserpic" width="35" height="35" aria-hidden="true"
+                                 id="yui_3_17_2_1_1603127068538_30">
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <div class="card">
+                                <div class="list-group list-group-flush">
+                                    <a href="#" class="list-group-item">My profile</a>
+                                    <a href="mark.html" class="list-group-item">My mark</a>
+                                    <a href="#" class="list-group-item">Settings</a>
+                                    <a href="index.html" class="list-group-item">Exit</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </nav>
+
+</header>
+<div class="row mt-1">
+    <!--    <div class="col-sm-2"></div>-->
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-body">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="Welcome.html" style="font-size: 20px">dl.yeahboy.kz</a>
+                        </li>
+                        <li class="breadcrumb-item" style="font-size: 20px"><a href="mark.html">Marks</a></li>
+                        <li class="breadcrumb-item active" aria-current="page" style="font-size: 20px">OS</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-2 mt-3">
+        <div class="card">
+            <div class="card-body">
+                <p class="card-title" style="font-size: 20px"> Навигация</p>
+                <a href="Welcome.html" class="card-text" aria-current="page">В начало</a>
+                <br>
+                <a href="mark.html" aria-current="page">Оценки</a>
+                <div class="card-text mt-3">
+                    <label style="font-size: 20px"> My course</label>
+                </div>
+                <div class="card-text">
+                    <a class="" href="OS.html">&bull;Operating systems</a>
+                    <a class="mt-1" href="#">&bull;WEB TECHNOLIGIES</a>
+                    <a class="mt-1" href="#">&bull;Architecture and Organiztion</a>
+                    <a class="mt-1" href="#">&bull;Java EE</a><br>
+                    <a class="mt-1" href="#">&bull;Software Development Tools</a><br>
+                    <a class="mt-1" href="#">&bull;Microsoft .NET Framework, ApplicatIon Dev FoundatIon</a><br>
+                    <a class="mt-1" href="#">&bull;Algorithms and Data Structures (SDP4)</a><br>
+                    <a class="mt-1" href="#">&bull;Python</a><br>
+                    <a class="mt-1" href="#">&bull;Руский язык</a>
+                    <a class="mt-1" href="#">&bull;Physical Culture</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-sm-10 mt-3">
+        <div class="card">
+            <div class="card-body">
+                <div class="card-title"><h3>Operating Systems (<strong style="font-size: 25px;">Sapakova S.</strong>)</h3></div>
+<!--                <p style="font-size: 15px;"><strong>Sapakova S.</strong></p>-->
+                <br>
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Наименование</th>
+                        <th>Вес</th>
+                        <th>Оценка</th>
+                        <th>Диапазон</th>
+                        <th>Проценты</th>
+                    </tr>
+                    </thead>
+
+                    <tbody style="background-color: #9fcdff">
+                        <tr>
+                            <td>
+                                <label><i class="fas fa-calculator mr-1"></i>RK1</label>
+                            </td>
+                            <td>
+                                -
+                            </td>
+                            <td>
+                                A(100%)
+                            </td>
+                            <td>
+                                0-100
+                            </td>
+                            <td>
+                                100%
+                            </td>
+                        </tr>
+                    </tbody>
+
+                    <tbody style="background-color: #9fcdff">
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-calculator mr-1"></i>RK2</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            -
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody style="background-color: #9fcdff">
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-calculator mr-1"></i>RKсрд</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            50.00%
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            -
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody style="background-color: #9fcdff">
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-calculator mr-1"></i>Финальный Экзамен</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            -
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody class="tbody" style="background-color: #F2F2F2;">
+                    <tr style="padding-bottom: 10px">
+                        <td>
+                            <label><i class="fas fa-users mr-1" style="color: #1c7430"></i>Attendance</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100.00%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100.00%
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    </thead>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-tag mr-1"></i>Lab 01</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-tag mr-1"></i>Lab 02</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-tag mr-1"></i>Lab 03</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-tag mr-1"></i>Lab 04</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-tag mr-1"></i>Lab 05</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-clipboard-check mr-1"></i>MCQ-01</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                    <tbody>
+                    <tr>
+                        <td>
+                            <label><i class="fas fa-clipboard-check mr-1"></i>MCQ-02</label>
+                        </td>
+                        <td>
+                            -
+                        </td>
+                        <td>
+                            A(100%)
+                        </td>
+                        <td>
+                            0-100
+                        </td>
+                        <td>
+                            100%
+                        </td>
+                    </tr>
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

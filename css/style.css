@@ -12,6 +12,22 @@ a{
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
 }
 
+/*header{*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*}*/
+/*header ul{*/
+/*    position: relative;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+/*header ul li{*/
+/*    position: relative;*/
+/*    list-style: none;*/
+/*}*/
+
 .form-signin {
     /*width: 100%;*/
     /*max-width: 330px;*/
@@ -46,3 +62,4 @@ a{
     color: white;
     text-align: center;
 }
+
