@@ -36,3 +36,13 @@ a{
 .form-signin input[type="password"] {
     margin-bottom: 10px;
 }
+
+.page_footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #383d41;
+    color: white;
+    text-align: center;
+}
