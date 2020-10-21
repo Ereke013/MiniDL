@@ -19,17 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="profile page work, repair mark, web index pages">
+    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="reapair design, add animation">
+      <change afterPath="$PROJECT_DIR$/img/login.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProfile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OS.html" beforeDir="false" afterPath="$PROJECT_DIR$/OS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEB.html" beforeDir="false" afterPath="$PROJECT_DIR$/WEB.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/style.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mark.html" beforeDir="false" afterPath="$PROJECT_DIR$/mark.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/signIn.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +58,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL" />
       <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL\img" />
@@ -82,7 +79,7 @@
       <workItem from="1603170154780" duration="22910000" />
       <workItem from="1603251181079" duration="653000" />
       <workItem from="1603276435095" duration="2943000" />
-      <workItem from="1603288345359" duration="7955000" />
+      <workItem from="1603288345359" duration="9258000" />
     </task>
     <task id="LOCAL-00001" summary="welcome page(after authorization) is work">
       <created>1603132594223</created>
@@ -119,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603297804128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reapair design, add animation">
+      <created>1603300475461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603300475461</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +147,8 @@
     <MESSAGE value="all subject marks page worked" />
     <MESSAGE value="mark page and OS view mark page is ready" />
     <MESSAGE value="profile page work, repair mark, web index pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="profile page work, repair mark, web index pages" />
+    <MESSAGE value="reapair design, add animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="reapair design, add animation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1603048046314">
