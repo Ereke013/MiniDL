@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="reapair design, add animation">
-      <change afterPath="$PROJECT_DIR$/img/login.PNG" afterDir="false" />
+    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="reapair design in main page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyProfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OS.html" beforeDir="false" afterPath="$PROJECT_DIR$/OS.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Welcome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -79,7 +80,7 @@
       <workItem from="1603170154780" duration="22910000" />
       <workItem from="1603251181079" duration="653000" />
       <workItem from="1603276435095" duration="2943000" />
-      <workItem from="1603288345359" duration="9258000" />
+      <workItem from="1603288345359" duration="9869000" />
     </task>
     <task id="LOCAL-00001" summary="welcome page(after authorization) is work">
       <created>1603132594223</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603300475461</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="reapair design in main page">
+      <created>1603301739274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603301739274</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +156,8 @@
     <MESSAGE value="mark page and OS view mark page is ready" />
     <MESSAGE value="profile page work, repair mark, web index pages" />
     <MESSAGE value="reapair design, add animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="reapair design, add animation" />
+    <MESSAGE value="reapair design in main page" />
+    <option name="LAST_COMMIT_MESSAGE" value="reapair design in main page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1603048046314">
@@ -163,10 +172,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603199166887" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603223170011">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603301878928">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603223170011" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603301878928" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1603199169533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
