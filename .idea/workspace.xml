@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="all subject marks page worked">
-      <change afterPath="$PROJECT_DIR$/OS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/style.js" afterDir="false" />
+    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="mark page and OS view mark page is ready">
+      <change afterPath="$PROJECT_DIR$/MyProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEB.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mark.html" beforeDir="false" afterPath="$PROJECT_DIR$/mark.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,15 +54,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL\img" />
       <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL" />
+      <recent name="C:\Users\ERLAN-PC\WebstormProjects\MiniDL\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +75,10 @@
       <updated>1603026196740</updated>
       <workItem from="1603026197812" duration="13674000" />
       <workItem from="1603088943671" duration="7360000" />
-      <workItem from="1603170154780" duration="22887000" />
+      <workItem from="1603170154780" duration="22910000" />
+      <workItem from="1603251181079" duration="653000" />
+      <workItem from="1603276435095" duration="2943000" />
+      <workItem from="1603288345359" duration="5267000" />
     </task>
     <task id="LOCAL-00001" summary="welcome page(after authorization) is work">
       <created>1603132594223</created>
@@ -97,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603203817271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mark page and OS view mark page is ready">
+      <created>1603223160647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603223160647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +130,8 @@
     <MESSAGE value="welcome page(after authorization) is work" />
     <MESSAGE value="marks page work process" />
     <MESSAGE value="all subject marks page worked" />
-    <option name="LAST_COMMIT_MESSAGE" value="all subject marks page worked" />
+    <MESSAGE value="mark page and OS view mark page is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="mark page and OS view mark page is ready" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1603048046314">
@@ -134,10 +146,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603199166887" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603178338347">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603223170011">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603178338347" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603223170011" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1603199169533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
