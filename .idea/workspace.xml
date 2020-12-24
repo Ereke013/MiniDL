@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="reapair design and add subject file">
+    <list default="true" id="b032e580-6d85-4895-9315-738e03f1ade9" name="Default Changelist" comment="reapair design in subject page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/subjects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,24 @@
       <workItem from="1603251181079" duration="653000" />
       <workItem from="1603276435095" duration="2943000" />
       <workItem from="1603288345359" duration="10214000" />
-      <workItem from="1603332452054" duration="2791000" />
+      <workItem from="1603332452054" duration="3541000" />
+      <workItem from="1603337078535" duration="239000" />
+      <workItem from="1603722076023" duration="22000" />
+      <workItem from="1603892082621" duration="247000" />
+      <workItem from="1603903834066" duration="610000" />
+      <workItem from="1603936980696" duration="758000" />
+      <workItem from="1603961198468" duration="479000" />
+      <workItem from="1604041074594" duration="694000" />
+      <workItem from="1604133770762" duration="801000" />
+      <workItem from="1604302058487" duration="40000" />
+      <workItem from="1604512901954" duration="10000" />
+      <workItem from="1604721570535" duration="597000" />
+      <workItem from="1605102292867" duration="3865000" />
+      <workItem from="1606487565537" duration="13000" />
+      <workItem from="1606938762982" duration="3531000" />
+      <workItem from="1608214093492" duration="651000" />
+      <workItem from="1608724538185" duration="4994000" />
+      <workItem from="1608834994337" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="welcome page(after authorization) is work">
       <created>1603132594223</created>
@@ -143,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603335061406</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="reapair design in subject page">
+      <created>1603335286552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603335286552</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +194,8 @@
     <MESSAGE value="reapair design in main page" />
     <MESSAGE value="reapair code" />
     <MESSAGE value="reapair design and add subject file" />
-    <option name="LAST_COMMIT_MESSAGE" value="reapair design and add subject file" />
+    <MESSAGE value="reapair design in subject page" />
+    <option name="LAST_COMMIT_MESSAGE" value="reapair design in subject page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1603048046314">
@@ -186,10 +210,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603199166887" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603302481758">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603335303350">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603302481758" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603335303350" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1603199169533">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
